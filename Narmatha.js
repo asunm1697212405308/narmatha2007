@@ -200,7 +200,7 @@
   <button class="dark-toggle" onclick="toggleDarkMode()">Toggle Dark Mode</button>
   <img src="./narmatha.jpg.jpg" alt="Profile Picture" class="profile-picture" id="profileImage" style="margin: 0 1rem 0 0; align-self: flex-start;">
   <div style="text-align: left;">
-    <h1>S NARMATHA</h1>
+    <h1>S.NARMATHA</h1>
     <p>Student | Department Of Computer Application</p>
   </div>
   <input type="file" id="fileInput" accept="image/*" style="display:none">
